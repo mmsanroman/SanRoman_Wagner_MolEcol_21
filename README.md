@@ -1,6 +1,7 @@
 # SanRoman_Wagner_MolEcol_21
 
-RANDOM VIABLE NETWORKS ("species")
+
+##Random viable networks ("species")
 
 The different folders contain the random viable networks ('species') used in this study. 
 
