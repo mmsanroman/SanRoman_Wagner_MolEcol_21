@@ -11,7 +11,9 @@ Each separate text file contains the description of a random viable network. A n
 
 Random viable networks are grouped according to their metabolic complexity, i.e. the number of reactions included in the metabolic network. We worked with species of metabolic complexity 'r-1000', 'r-500', 'r', 'r+500' and 'r+1000' which are found in the `Data` folder, in the subfolders `metabolic_complexity_r-1000_1583reactions`, `metabolic_complexity_r-500_2083reactions`, `metabolic_complexity_r_2583reactions`, `metabolic_complexity_r+500_3083reactions` and `metabolic_complexity_r+1000_3583reactions`, respectively. In addition, for metabolic complexity 'r' we created random viable networks which were selected to be viable on different carbon sources. We include these networks in folders `Data/metabolic_complexity_r_2583reactions/CARBON-SOURCE_selected_metabNets` where CARBON-SOURCE is one of the carbon sources used in this work, that is, acetate, alanine, glucose, pyruvate and serine. 
 
+## Citation
 
+If you use this data, please cite: San Roman M. and Wagner A. (2021) Diversity begets diversity during community assembly until ecological limits impose a diversity ceiling. Mol Ecol.
 
 
 
